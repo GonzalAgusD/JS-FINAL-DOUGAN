@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "nombre": "Campera EcoCuero",
+        "descripcion": "Campera acolchada ideal para invierno.",
+        "precio": 28000,
+        "imagen": "IMG/Camperas/Campera1.jpg",
+        "category": "Camperas"
+    },
+    {
+        "id": 2,
+        "nombre": "Campera Engomada",
+        "descripcion": "Campera de cuero auténtico para un look elegante.",
+        "precio": 40000,
+        "imagen": "IMG/Camperas/Campera3.jpg",
+        "category": "Camperas"
+    },
+    {
+        "id": 3,
+        "nombre": "Campera EcoCuero",
+        "descripcion": "Campera de cuero auténtico para un look elegante.",
+        "precio": 32000,
+        "imagen": "IMG/Camperas/Campera2.jpg",
+        "category": "Camperas"
+    },
+    {
+        "id": 4,
+        "nombre": "Campera Engomada Termica",
+        "descripcion": "Campera de cuero auténtico para un look elegante.",
+        "precio": 32000,
+        "imagen": "IMG/Camperas/Campera4.jpg",
+        "category": "Camperas"
+    },
+    {
+        "id": 5,
+        "nombre": "Campera Engomada Termica",
+        "descripcion": "Campera de cuero auténtico para un look elegante.",
+        "precio": 32000,
+        "imagen": "IMG/Camperas/Campera5.jpg",
+        "category": "Camperas"
+    },
+    {
+        "id": 6,
+        "nombre": "Campera Engomada Termica",
+        "descripcion": "Campera de cuero auténtico para un look elegante.",
+        "precio": 32000,
+        "imagen": "IMG/Camperas/Campera6.jpg",
+        "category": "Camperas"
+    },
+    {
+        "id": 7,
+        "nombre": "Campera de Pluma Importada",
+        "descripcion": "Campera de cuero auténtico para un look elegante.",
+        "precio": 32000,
+        "imagen": "IMG/Camperas/Campera7.jpg",
+        "category": "Camperas"
+    },
+    {
+        "id": 8,
+        "nombre": "Campera de Pluma Importada",
+        "descripcion": "Campera de cuero auténtico para un look elegante.",
+        "precio": 32000,
+        "imagen": "IMG/Camperas/Campera8.jpg",
+        "category": "Camperas"
+    },
+    {
+        "id": 9,
+        "nombre": "Campera de Pluma Importada",
+        "descripcion": "Campera de cuero auténtico para un look elegante.",
+        "precio": 32000,
+        "imagen": "IMG/Camperas/Campera9.jpg",
+        "category": "Camperas"
+    },
+    {
+        "id": 10,
+        "nombre": "Campera de Pluma Importada",
+        "descripcion": "Campera de cuero auténtico para un look elegante.",
+        "precio": 32000,
+        "imagen": "IMG/Camperas/Campera10.jpg",
+        "category": "Camperas"
+    },
+    {
+        "id": 11,
+        "nombre": "Parka con piel Impermeable",
+        "descripcion": "Parka resistente al agua con capucha desmontable.",
+        "precio": 22000,
+        "imagen": "IMG/Parka/Parka1.jpg",
+        "category": "Parkas"
+    },
+    {
+        "id": 12,
+        "nombre": "Parka con piel Impermeable",
+        "descripcion": "Parka resistente al agua con capucha desmontable.",
+        "precio": 22000,
+        "imagen": "IMG/Parka/Parka2.jpg",
+        "category": "Parkas"
+    },
+    {
+        "id": 13,
+        "nombre": "Parka con piel Impermeable",
+        "descripcion": "Parka resistente al agua con capucha desmontable.",
+        "precio": 22000,
+        "imagen": "IMG/Parka/Parka3.jpg",
+        "category": "Parkas"
+    },
+    {
+        "id": 14,
+        "nombre": "Parka con piel Impermeable",
+        "descripcion": "Parka resistente al agua con capucha desmontable.",
+        "precio": 22000,
+        "imagen": "IMG/Parka/Parka4.jpg",
+        "category": "Parkas"
+    },
+    {
+        "id": 15,
+        "nombre": "Chaleco de Pluma Importado",
+        "descripcion": "Chaleco reversible con bolsillos frontales.",
+        "precio": 12000,
+        "imagen": "IMG/Chalecos/chaleco1.jpg",
+        "category": "Chalecos"
+    },
+    {
+        "id": 16,
+        "nombre": "Chaleco de Pluma Importado",
+        "descripcion": "Chaleco reversible con bolsillos frontales.",
+        "precio": 12000,
+        "imagen": "IMG/Chalecos/chaleco2.jpg",
+        "category": "Chalecos"
+    },
+    {
+        "id": 17,
+        "nombre": "Chaleco de Pluma Importado",
+        "descripcion": "Chaleco reversible con bolsillos frontales.",
+        "precio": 12000,
+        "imagen": "IMG/Chalecos/chaleco3.jpg",
+        "category": "Chalecos"
+    },
+    {
+        "id": 18,
+        "nombre": "Chaleco de Pluma Importado",
+        "descripcion": "Chaleco reversible con bolsillos frontales.",
+        "precio": 12000,
+        "imagen": "IMG/Chalecos/chaleco4.jpg",
+        "category": "Chalecos"
+    },
+    {
+        "id": 19,
+        "nombre": "Chaleco de Pluma Importado",
+        "descripcion": "Chaleco reversible con bolsillos frontales.",
+        "precio": 12000,
+        "imagen": "IMG/Chalecos/chaleco5.jpg",
+        "category": "Chalecos"
+    },
+    {
+        "id": 20,
+        "nombre": "Chaleco de Pluma Importado",
+        "descripcion": "Chaleco reversible con bolsillos frontales.",
+        "precio": 12000,
+        "imagen": "IMG/Chalecos/chaleco6.jpg",
+        "category": "Chalecos"
+    },
+    {
+        "id": 21,
+        "nombre": "Chaleco de Pluma Importado",
+        "descripcion": "Chaleco reversible con bolsillos frontales.",
+        "precio": 12000,
+        "imagen": "IMG/Chalecos/chaleco7.jpg",
+        "category": "Chalecos"
+    },
+    {
+        "id": 22,
+        "nombre": "bufandon",
+        "descripcion": "Bufanda de lana suave, ideal para el invierno.",
+        "precio": 5000,
+        "imagen": "IMG/Accesorios/bufandon.jpg",
+        "category": "Accesorios"
+    },
+    {
+        "id": 23,
+        "nombre": "Gorro de Punto",
+        "descripcion": "Gorro de punto estilo casual.",
+        "precio": 3500,
+        "imagen": "IMG/Accesorios/accesorio.jpg",
+        "category": "Accesorios"
+    },
+    {
+        "id": 24,
+        "nombre": "Billetera de EcoCuero",
+        "descripcion": "Gorro de punto estilo casual.",
+        "precio": 6000,
+        "imagen": "IMG/Accesorios/Billetera-eco-cuero.jpg",
+        "category": "Accesorios"
+    },
+    {
+        "id": 25,
+        "nombre": "BUDA",
+        "descripcion": "Gorro de punto estilo casual.",
+        "precio": 7000,
+        "imagen": "IMG/Accesorios/buda-accesorio.jpg",
+        "category": "Accesorios"
+    },
+    {
+        "id": 26,
+        "nombre": "Cartera",
+        "descripcion": "Gorro de punto estilo casual.",
+        "precio": 3500,
+        "imagen": "IMG/Accesorios/cartera.jpg",
+        "category": "Accesorios"
+    }
+]
